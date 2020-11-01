@@ -1,0 +1,7 @@
+wget==3.2
+pandas==1.0.5
+numpy==1.18.5
+sklearn==0.0
+statsmodels==0.11.1
+matplotlib==3.2.2
+watermark==2.0.2
